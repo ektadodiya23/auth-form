@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.section-part{
+    font-family: emoji;
+}
+.heading{
+    margin-top: 12%;
+}
+
+.box{
+    background-color: white;
+    margin: 10% 27%;
+    border-radius: 5px;
+}
+.email{
+    padding: 2px 29% 2px 3px;
+}
+.button-part{
+    border: none;
+    padding: 6px 10px;
+    background-color: rgb(96, 199, 218);
+    color: white;
+    border-radius: 3px;
+}
+.button-part {
+    margin-left: -37%;
+}
+.form-info {
+    margin-left: -13%;
+}
